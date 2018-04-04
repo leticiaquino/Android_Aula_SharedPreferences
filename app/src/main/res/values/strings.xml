@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Persistência</string>
+    <string name="salvar_na_shared_preferences">salvar na shared preferences</string>
+    <string name="recupear_shared_preferences">recupear shared preferences</string>
+</resources>
